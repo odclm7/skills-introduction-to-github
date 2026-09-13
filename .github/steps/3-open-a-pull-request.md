@@ -23,17 +23,23 @@ To create a pull request automatically, click **Compare & pull request** button,
 
    ![screenshot showing both branch selections](https://github.com/odclm7/skills-introduction-to-github/blob/main/.github/images/branch-selection-comparison.png?raw=true)
 
-4. Click **Create pull request**.
+   <img width="1195" height="75" alt="Screenshot 2026-09-13 144427" src="https://github.com/user-attachments/assets/282c77e5-120e-4ae2-bad7-b9a8fdf7a2fd" />
 
-5. Enter a title for your pull request. By default, the title will be your commit message. For this exercise, let's edit the field to say `Add my first file`.
 
-6. The next field helps you provide a **description** of the changes you made. Please enter a short description of what you’ve accomplished so far. As a reminder, you have: created a new branch, created a file, and made a commit.
+5. Click **Create pull request**.
+
+6. Enter a title for your pull request. By default, the title will be your commit message. For this exercise, let's edit the field to say `Add my first file`.
+
+7. The next field helps you provide a **description** of the changes you made. Please enter a short description of what you’ve accomplished so far. As a reminder, you have: created a new branch, created a file, and made a commit.
 
    ![screenshot showing pull request](https://github.com/odclm7/skills-introduction-to-github/blob/main/.github/images/create-pull-request-form.png?raw=true)
 
-7. Click **Create pull request**.
+<img width="786" height="627" alt="Screenshot 2026-09-13 144545" src="https://github.com/user-attachments/assets/0f5c5644-7348-4fd0-986e-3e212e13d033" />
 
-8. Now that you've started a place to collaborate, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
+
+8. Click **Create pull request**.
+
+9. Now that you've started a place to collaborate, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
 
 
 <details>
@@ -44,3 +50,5 @@ If you don't get feedback, here are some things to check:
 - Ensure your pull request has a description.
 
 </details>
+
+<img width="775" height="591" alt="Screenshot 2026-09-13 144617" src="https://github.com/user-attachments/assets/2a879327-734f-4b3d-b083-8e6b7a8f5f31" />
