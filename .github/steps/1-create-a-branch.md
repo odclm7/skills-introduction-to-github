@@ -59,3 +59,6 @@ If you don't get feedback, here are some things to check:
 - Make sure you created the branch with the exact name `my-first-branch`. No prefixes or suffixes.
 
 </details>
+
+******
+<img width="415" height="397" alt="image" src="https://github.com/user-attachments/assets/7133d930-5b0a-4943-8ddb-6cfc00ebe3dc" />
