@@ -8,6 +8,9 @@ You successfully created a pull request. Now it's time to merge it!
 
 ![screenshot of green merge pull request button](https://github.com/odclm7/skills-introduction-to-github/blob/main/.github/images/merge-pull-request-button.png?raw=true)
 
+<img width="773" height="296" alt="Screenshot 2026-09-13 145214" src="https://github.com/user-attachments/assets/e6b8c7ac-dcf0-4893-a85b-7c801c3d4d0e" />
+
+
 ### :keyboard: Activity: Merge the pull request
 
 1. Click **Merge pull request**.
@@ -22,7 +25,10 @@ You successfully created a pull request. Now it's time to merge it!
 
    ![screenshot showing delete branch button](https://github.com/odclm7/skills-introduction-to-github/blob/main/.github/images/delete-branch-button.png?raw=true)
 
-4. Now that your work is merged, Mona will confirm and share some final review content. Nice work! 🎉
+   ![Uploading Screenshot 2026-09-13 145329.png…]()
+
+
+5. Now that your work is merged, Mona will confirm and share some final review content. Nice work! 🎉
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
