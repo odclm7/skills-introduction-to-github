@@ -19,6 +19,9 @@ The following steps will guide you through the process of committing a change on
 
    <img width="300" alt="screenshot of the create new file option" src="https://github.com/odclm7/skills-introduction-to-github/blob/main/.github/images/create-new-file-option.png?raw=true">
 
+   <img width="277" height="165" alt="Screenshot 2026-09-13 135749" src="https://github.com/user-attachments/assets/d05a7e18-b891-41ff-9d09-46dbb63eee4f" />
+
+
 3. In the **Name your file...** field, enter `PROFILE.md`.
 
 4. In the **Enter file contents here** area, copy the following content to your file:
@@ -28,6 +31,8 @@ The following steps will guide you through the process of committing a change on
    ```
 
    ![screenshot for adding the profile.md file](https://github.com/odclm7/skills-introduction-to-github/blob/main/.github/images/add-profile-file.png?raw=true)
+
+<img width="1212" height="183" alt="Screenshot 2026-09-13 140903" src="https://github.com/user-attachments/assets/ca49bc78-3c9f-4b87-a5e4-30b81776e1c5" />
 
 5. Click **Commit changes...** in the upper right corner above the contents box. A dialog will appear.
 
@@ -50,3 +55,5 @@ If you don't get feedback, here are some things to check:
 - Ensure the `PROFILE.md` file is created and in the root folder.
 
 </details>
+
+<img width="885" height="221" alt="image" src="https://github.com/user-attachments/assets/b37c7284-eda2-4acd-bfb1-b59c3bd85651" />
